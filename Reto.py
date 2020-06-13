@@ -34,6 +34,7 @@ if fruta == "3":
 # else:
 #     print("Error - intente de nuevo")
 
+
 # Para un loop infinito
 while True:
     print("-" * 80)
